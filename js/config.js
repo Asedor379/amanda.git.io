@@ -99,7 +99,7 @@ const config = {
   // FORMULARIO DE CONFIRMACIÓN
   // ============================================
   confirmacion: {
-    linkFormulario: "https://forms.google.com/...",  // ← COMPLETA ESTO
+    linkFormulario: "https://docs.google.com/forms/d/e/1FAIpQLSdAaOUlm3EFNqhtQzXi_cWRAdIUzg3swhAFtGXH5OsWaXTzHg/viewform?usp=publish-editor",  // ← COMPLETA ESTO
     fechaLimite: "2026-06-01",
     mostrarFechaLimite: true
   },
