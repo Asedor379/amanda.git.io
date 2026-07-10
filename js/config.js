@@ -33,9 +33,9 @@ const config = {
   // UBICACIÓN
   // ============================================
   direccion: {
-    texto: "Av. Ejemplo 1234, Buenos Aires",
-    salon: "Salón de Eventos Ejemplo",
-    googleMapsUrl: "https://maps.google.com/?q=Av.+Ejemplo+1234+Buenos+Aires"  // ← COMPLETA ESTO
+    texto: "Av. no se donde ",
+    salon: "Salón de Eventos nose quien",
+    googleMapsUrl: "https://maps.app.goo.gl/Tkaiacof4R4T7PbW8"  // ← COMPLETA ESTO
   },
 
   // ============================================
